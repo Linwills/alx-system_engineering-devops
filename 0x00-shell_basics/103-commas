@@ -1,2 +1,2 @@
 #!/bin/bash
-ls alnmp
+ls -map | sort -d
